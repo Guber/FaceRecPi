@@ -67,9 +67,7 @@ The following photographs show the state of the system on the peripheral hardwar
 *Detection*
 
  ![alt text](https://raw.githubusercontent.com/Guber/FaceRecPi/master/readmeimg/state3.jpg "System state 3")
- 
-*Person detected*
+ *Person detected*
 
 ![alt text](https://raw.githubusercontent.com/Guber/FaceRecPi/master/readmeimg/state4.jpg "System state 4")
-
 *Person detected and identified*
